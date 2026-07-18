@@ -17,9 +17,6 @@ Fiquei responsável pela componente analítica e de redação do projeto:
 - Definição dos princípios da arquitetura TO-BE (orientação a capacidades de negócio, separação negócio/aplicação/tecnologia, modularidade, cloud-native, governação e dados como ativo estratégico)
 - Elaboração do roadmap de transformação faseado (curto, médio e longo prazo)
 
-A modelação do diagrama ArchiMate (camadas de negócio, aplicação e tecnologia) foi realizada por outro elemento do grupo - a imagem abaixo está incluída como referência visual do artefacto produzido pela equipa.
-
-![Diagrama ArchiMate](./diagrama-archimate.jpg)
 
 ## Conceitos aplicados
 
