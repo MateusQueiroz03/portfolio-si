@@ -11,7 +11,7 @@ Aplicação da framework COBIT 2019 a uma empresa de desenvolvimento de software
 ## A minha contribuição
 
 - Estruturação e redação da maior parte do relatório final, incluindo a integração do trabalho de todos os elementos do grupo
-- Análise individual do objetivo **APO11 — Managed Quality**: avaliação do nível de capacidade recomendado (Nível 4 — Predictable), identificação das práticas atuais da organização, análise de gaps face ao nível-alvo e formulação de recomendações (formalização de um Quality Management System, introdução de métricas quantitativas de qualidade, controlo estatístico de processos e institucionalização da melhoria contínua)
+- Análise individual do objetivo **APO11 - Managed Quality**: avaliação do nível de capacidade recomendado (Nível 4 - Predictable), identificação das práticas atuais da organização, análise de gaps face ao nível-alvo e formulação de recomendações (formalização de um Quality Management System, introdução de métricas quantitativas de qualidade, controlo estatístico de processos e institucionalização da melhoria contínua)
 
 ## Conceitos aplicados
 
